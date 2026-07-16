@@ -7,9 +7,8 @@ order: 4
 ## Perfis acadêmicos
 
 - [ORCID — 0000-0002-4322-1079](https://orcid.org/0000-0002-4322-1079)
-- [Currículo Lattes](http://lattes.cnpq.br/) <!-- cole aqui o link direto do seu Lattes -->
+- [Currículo Lattes](https://lattes.cnpq.br/) <!-- cole aqui o link direto do seu Lattes, ex.: https://lattes.cnpq.br/0000000000000000 -->
 - [Google Scholar](https://scholar.google.com/) <!-- cole o link do seu perfil, se tiver -->
-- [arXiv](https://arxiv.org/a/nascimento_a_1) <!-- confirme o identificador do seu perfil de autor -->
 
 ## Institucionais
 
