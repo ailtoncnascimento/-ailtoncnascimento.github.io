@@ -9,8 +9,11 @@ math: true
 
 Sou professor do Departamento de Matemática da [Universidade Federal do Piauí (UFPI)](https://ufpi.br), Campus Universitário Ministro Petrônio Portella, em Teresina. Fiz graduação (2010) e mestrado (2013) em Matemática pela UFPI e doutorado em Matemática pelo [IMPA](https://impa.br) (2018), sob orientação de Felipe Linares, com a tese *Propagação de Regularidade para Soluções de Modelos Dispersivos em 2D*.
 
+<!-- QUANDO ENVIAR O ARQUIVO assets/pdfs/CV.pdf, remova estas marcas de
+     comentário para reativar a linha abaixo:
+
 Meu currículo (CV) está disponível [aqui](/assets/pdfs/CV.pdf).
-<!-- Coloque o arquivo CV.pdf na pasta assets/pdfs/ -->
+-->
 
 ## Interesses de pesquisa
 
