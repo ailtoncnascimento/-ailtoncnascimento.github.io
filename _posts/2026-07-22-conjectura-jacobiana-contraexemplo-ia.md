@@ -330,7 +330,7 @@ $$
 \boxed{\ F\left(0,0,-\tfrac14\right) = F\left(1,-\tfrac32,\tfrac{13}{2}\right) = F\left(-1,\tfrac32,\tfrac{13}{2}\right) = \left(-\tfrac14,0,0\right).\ }
 $$
 
-Um problema com raízes no século XIX pode ter sido derrubado por um exemplo que cabe em uma única publicação nas redes sociais.
+Um problema com raízes no século XIX pode ter sido derrubado por um exemplo que cabe em uma única publicação nas redes sociais. A forma como fazemos Matemática passa por uma profunda transformação, e nós, matemáticos profissionais, precisamos nos adaptar a estes novos tempos. 
 
 ## Referências
 
