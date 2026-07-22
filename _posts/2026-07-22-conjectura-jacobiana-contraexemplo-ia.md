@@ -11,7 +11,7 @@ description: Um exemplo polinomial explícito em dimensão três parece encerrar
 
 Uma das conjecturas mais conhecidas da álgebra e da geometria algébrica pode ter recebido, de maneira bastante inesperada, uma resposta negativa.
 
-Em julho de 2026, o matemático **Levent Alpöge** divulgou uma aplicação polinomial
+Em julho de 2026, enquanto assistia a final da Copa do Mundo de 2026 entre Argentina e Espanha, o matemático **Levent Alpöge** divulgou uma aplicação polinomial
 
 $$
 F\colon \mathbb{C}^{3}\longrightarrow \mathbb{C}^{3}
@@ -179,7 +179,7 @@ Logo, $F(P_{+})=\left(-\tfrac14,0,0\right)$. O cálculo para $P_{-}$ é análogo
 
 À primeira vista, pode parecer contraditório que uma aplicação com $\det JF(x)\neq 0$ em todos os pontos envie pontos distintos para o mesmo lugar. Não há, entretanto, contradição com o Teorema da Função Inversa.
 
-Esse teorema garante apenas que, para cada ponto $p$, existem vizinhanças $U$ de $p$ e $V$ de $F(p)$ tais que $F|_{U}\colon U\to V$ é invertível. Isso é uma propriedade *local*. Ela não exclui a possibilidade de que regiões distantes do domínio sejam enviadas para a mesma região da imagem.
+Esse teorema garante apenas que, para cada ponto $p$, existem vizinhanças $U$ de $p$ e $V$ de $F(p)$ tais que $\left.F\right|_{U}\colon U\to V$ é invertível. Isso é uma propriedade *local*. Ela não exclui a possibilidade de que regiões distantes do domínio sejam enviadas para a mesma região da imagem.
 
 O novo exemplo evidencia exatamente essa diferença: invertibilidade local $\not\Longrightarrow$ invertibilidade global. A Conjectura Jacobiana afirmava que a estrutura polinomial seria rígida o suficiente para eliminar esse fenômeno. O exemplo mostra que, ao menos em três variáveis, essa expectativa não se confirma.
 
