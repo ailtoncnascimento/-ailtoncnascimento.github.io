@@ -178,9 +178,7 @@ Logo, $F(P_{+})=\left(-\tfrac14,0,0\right)$. O cálculo para $P_{-}$ é análogo
 ## Por que o determinante não nulo não foi suficiente?
 
 À primeira vista, pode parecer contraditório que uma aplicação com $\det JF(x)\neq 0$ em todos os pontos envie pontos distintos para o mesmo lugar. Não há, entretanto, contradição com o Teorema da Função Inversa.
-
 Esse teorema garante apenas que, para cada ponto $p$, existem vizinhanças $U$ de $p$ e $V$ de $F(p)$ tais que $\left.F\right|_{U}\colon U\to V$ é invertível. Isso é uma propriedade *local*. Ela não exclui a possibilidade de que regiões distantes do domínio sejam enviadas para a mesma região da imagem.
-
 O novo exemplo evidencia exatamente essa diferença: invertibilidade local $\not\Longrightarrow$ invertibilidade global. A Conjectura Jacobiana afirmava que a estrutura polinomial seria rígida o suficiente para eliminar esse fenômeno. O exemplo mostra que, ao menos em três variáveis, essa expectativa não se confirma.
 
 ## Uma história que pode ter começado antes de 1939
