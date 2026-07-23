@@ -9,7 +9,7 @@ description: Um grafo com 7 nós e 9 arcos, anunciado em julho de 2026, parece r
 
 Menos de uma semana depois do episódio envolvendo a [Conjectura Jacobiana]({% post_url 2026-07-22-conjectura-jacobiana-contraexemplo-ia %}), um segundo anúncio do mesmo gênero circulou nas redes sociais. Em 22 de julho de 2026, o pesquisador **Dmitry Rybin** divulgou um grafo com **sete nós e nove arcos** que parece refutar uma conjectura de otimização combinatória em aberto desde os anos 1990 — encontrado, segundo ele, com o auxílio de um modelo de inteligência artificial.
 
-Diferentemente do caso anterior, aqui não é preciso confiar em ninguém. O contraexemplo é **finito e pequeno**: há exatamente oito maneiras de rotear a demanda, e podemos simplesmente examinar todas. Foi o que fiz, e o relato desta verificação é o conteúdo principal deste texto.
+Diferentemente do caso anterior, aqui não é preciso confiar em ninguém. O contraexemplo é **finito e pequeno**: há exatamente oito maneiras de rotear a demanda, e podemos simplesmente examinar todas. Foi o que fiz, com ajuda de LLM,  e o relato desta verificação é o conteúdo principal deste texto.
 
 ## O problema do fluxo não-divisível
 
@@ -267,7 +267,7 @@ Como no episódio da Conjectura Jacobiana, convém separar duas afirmações de 
 
 **A segunda** é histórica: o quanto a inteligência artificial contribuiu. Aqui a avaliação é mais delicada. Diferentemente do caso anterior, o registro completo da interação foi tornado público, o que é um avanço metodológico considerável. Ainda assim, permanecem em aberto perguntas como: quantas tentativas incorretas antecederam o exemplo final? Qual o peso da formulação precisa do problema, feita por um especialista que declarou ter passado semanas pensando nele em ambas as direções? A intuição estrutural — de que valia a pena procurar um contraexemplo apertado, com violação $d_{\max}+1$ — veio da máquina ou do humano?
 
-Vale registrar que o resultado **não passou por arbitragem científica** nem por verificação formal. Nada disso diminui a solidez do cálculo; apenas situa o anúncio no gênero a que pertence, que é o da comunicação em rede social, não o da publicação matemática.
+Vale registrar que o resultado **não passou por revisão científica** nem por verificação formal. Nada disso diminui a solidez do cálculo; apenas situa o anúncio no gênero a que pertence, que é o da comunicação em rede social, não o da publicação matemática.
 
 ## Uma observação sobre a assimetria
 
