@@ -9,7 +9,7 @@ description: Um grafo com 7 nós e 9 arcos, anunciado em julho de 2026, parece r
 
 Menos de uma semana depois do episódio envolvendo a [Conjectura Jacobiana]({% post_url 2026-07-22-conjectura-jacobiana-contraexemplo-ia %}), um segundo anúncio do mesmo gênero circulou nas redes sociais. Em 22 de julho de 2026, o pesquisador **Dmitry Rybin** divulgou um grafo com **sete nós e nove arcos** que parece refutar uma conjectura de otimização combinatória em aberto desde os anos 1990 — encontrado, segundo ele, com o auxílio de um modelo de inteligência artificial.
 
-Diferentemente do caso anterior, aqui não é preciso confiar em ninguém. O contraexemplo é **finito e pequeno**: há exatamente oito maneiras de rotear a demanda, e podemos simplesmente examinar todas. Foi o que fiz, e o relato desta verificação é o conteúdo principal deste texto.
+Diferentemente do caso anterior, aqui não é preciso confiar em ninguém. O contraexemplo é **finito e pequeno**: há exatamente oito maneiras de rotear a demanda, e podemos simplesmente examinar todas. Foi exatamente o que fiz, e o relato desta verificação é o conteúdo principal deste texto.
 
 ## O problema do fluxo não-divisível
 
@@ -20,10 +20,7 @@ Há duas modalidades de transporte:
 - No **fluxo fracionário** (ou divisível), a carga de um cliente pode ser repartida entre vários caminhos: metade pela rodovia, metade pela estrada vicinal.
 - No **fluxo não-divisível** (*unsplittable*), a demanda de cada cliente deve percorrer **um único caminho**, do início ao fim.
 
-A segunda modalidade é mais realista em muitas aplicações — não se corta um contêiner ao meio — e é também combinatorialmente muito mais rígida. A pergunta natural é: quanto se perde ao exigir a indivisibilidade?
-
-Formalmente, dado um fluxo fracionário viável $x=(x_e)_{e\in A}$, procura-se um fluxo não-divisível $y=(y_e)_{e\in A}$ que se pareça o máximo possível com $x$.
-
+A segunda modalidade é mais realista em muitas aplicações — não se corta um contêiner ao meio — e é também combinatorialmente muito mais rígida. A pergunta natural é: quanto se perde ao exigir a indivisibilidade?Formalmente, dado um fluxo fracionário viável $x=(x_e)_{e\in A}$, procura-se um fluxo não-divisível $y=(y_e)_{e\in A}$ que se pareça o máximo possível com $x$.
 ## O teorema de Dinitz, Garg e Goemans
 
 A resposta clássica é um resultado notável de **Yefim Dinitz, Naveen Garg e Michel Goemans**, publicado na *Combinatorica* em 1999.
