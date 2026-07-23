@@ -9,7 +9,7 @@ description: Um grafo com 7 nós e 9 arcos, anunciado em julho de 2026, parece r
 
 Menos de uma semana depois do episódio envolvendo a [Conjectura Jacobiana]({% post_url 2026-07-22-conjectura-jacobiana-contraexemplo-ia %}), um segundo anúncio do mesmo gênero circulou nas redes sociais. Em 22 de julho de 2026, o pesquisador **Dmitry Rybin** divulgou um grafo com **sete nós e nove arcos** que parece refutar uma conjectura de otimização combinatória em aberto desde os anos 1990 — encontrado, segundo ele, com o auxílio de um modelo de inteligência artificial.
 
-Diferentemente do caso anterior, aqui não é preciso confiar em ninguém. O contraexemplo é **finito e pequeno**: há exatamente oito maneiras de rotear a demanda, e podemos simplesmente examinar todas. Foi o que fiz, com ajuda de LLM,  e o relato desta verificação é o conteúdo principal deste texto.
+Diferentemente do caso anterior, aqui não é preciso confiar em ninguém. O contraexemplo é **finito e pequeno**: há exatamente oito maneiras de rotear a demanda, e podemos simplesmente examinar todas. Foi o que fiz, com ajuda de LLM,  e o resultado desta verificação é o conteúdo principal deste texto.
 
 ## O problema do fluxo não-divisível
 
@@ -275,7 +275,7 @@ Os dois episódios desta semana ilustram bem uma assimetria antiga da matemátic
 
 Uma demonstração da conjectura de Goemans teria de contemplar todos os grafos, todas as demandas e todos os custos. Sua refutação coube em sete nós, nove arcos e oito verificações aritméticas. É exatamente o tipo de tarefa em que uma busca automatizada, capaz de percorrer rapidamente um espaço enorme de instâncias pequenas, tem vantagem estrutural sobre a intuição humana — que, por sua vez, tende a procurar o padrão geral, não a exceção minúscula.
 
-Isso sugere uma divisão de trabalho, mais do que uma substituição. A máquina pode vasculhar o espaço das instâncias; cabe ao matemático formular o problema, reconhecer o que conta como contraexemplo e — a parte que continua inteiramente humana — **entender por que ele funciona**.
+Isso sugere uma divisão de trabalho, mais do que uma substituição. A máquina pode vasculhar o espaço das instâncias; cabe ao matemático formular o problema, reconhecer o que conta como contraexemplo e — a parte que continua inteiramente humana — **entender por que ele funciona**. Os tempos atuais nos mostram que a Inteligência Artifical é um grande aliado, jamais um substituto do esforço e do entendimento humano.
 
 ## Referências
 
