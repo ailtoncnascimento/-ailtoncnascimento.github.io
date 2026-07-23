@@ -1,6 +1,6 @@
 ---
 title: "O milagre desmontado: Terence Tao, um blog e a arte de não aceitar coincidências"
-date: 2026-07-23 16:00:00 -0300
+date: 2026-07-23 10:00:00 -0300
 categories: [Matemática, Miscelânea]
 tags: [inteligência artificial, terence tao, álgebra, divulgação, blogs matemáticos]
 math: true
