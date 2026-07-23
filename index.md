@@ -7,7 +7,7 @@ math: true
 
 # Sobre
 
-Sou professor do Departamento de Matemática da [Universidade Federal do Piauí (UFPI)](https://ufpi.br), Campus Universitário Ministro Petrônio Portella, em Teresina. Fiz graduação (2010) e mestrado (2013) em Matemática pela UFPI e doutorado em Matemática pelo [IMPA](https://impa.br) (grau concedido em 10/05/2018), sob orientação de [Felipe Linares](https://impa.br/page-pessoas/felipe-linares/), com a tese [*Propagation of regularity for solutions of 2D nonlinear dispersive equation*](https://impa.br/titulo-concedido/ailton-campos-do-nascimento/).
+Sou professor do Departamento de Matemática da [Universidade Federal do Piauí (UFPI)](https://ufpi.br), Campus Universitário Ministro Petrônio Portella, em Teresina. Fiz graduação (2010) e mestrado (2013) em Matemática pela UFPI e doutorado em Matemática pelo [IMPA](https://impa.br) (grau concedido em 10/05/2018), sob orientação de [Felipe Linares](https://w3.impa.br/~linares/), com a tese [*Propagation of regularity for solutions of 2D nonlinear dispersive equation*](https://impa.br/titulo-concedido/ailton-campos-do-nascimento/).
 
 <!-- QUANDO ENVIAR O ARQUIVO assets/pdfs/CV.pdf, remova estas marcas de
      comentário para reativar a linha abaixo:
