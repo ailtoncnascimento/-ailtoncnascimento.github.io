@@ -21,7 +21,6 @@ Há duas modalidades de transporte:
 - No **fluxo não-divisível** (*unsplittable*), a demanda de cada cliente deve percorrer **um único caminho**, do início ao fim.
 
 A segunda modalidade é mais realista em muitas aplicações — não se corta um contêiner ao meio — e é também combinatorialmente muito mais rígida. A pergunta natural é: quanto se perde ao exigir a indivisibilidade?
-
 Formalmente, dado um fluxo fracionário viável $x=(x_e)_{e\in A}$, procura-se um fluxo não-divisível $y=(y_e)_{e\in A}$ que se pareça o máximo possível com $x$.
 
 ## O teorema de Dinitz, Garg e Goemans
