@@ -16,7 +16,7 @@ Nesta página estão as disciplinas que ministro atualmente e o histórico de tu
 | DMA0072 | Teoria dos Números I | T02 | 35T34 (terça e quinta, tarde) | SG04 — Sala 250 |
 | DMAT/CCN056 | Teoria dos Números | T01 | 35T34 (terça e quinta, tarde) | SG04 — Sala 250 |
 
-<small>As duas turmas de Teoria dos Números compartilham horário e sala, atendendo a currículos distintos.</small>
+<small>As duas turmas de Teoria dos Números compartilham horário e sala, atendendo a currículos iguais.</small>
 
 ### Pós-Graduação
 
